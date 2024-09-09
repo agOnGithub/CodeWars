@@ -14,3 +14,8 @@ These are my solutions to the Code Wars kata challenges.
 - learning algorithms
 - aiming for shortest code
 - use the language creatively
+
+# Resources I use
+- RegEx: https://regex101.com/
+- W3 Schools: https://www.w3schools.com/python/
+- Think Python book by Allen Downey (especially The Goodies chapter)
